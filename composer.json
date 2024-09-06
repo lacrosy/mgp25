@@ -55,7 +55,7 @@
         "clue/socks-react": "*",
         "clue/http-proxy-react": "*",
         "psr/log": "*",
-        "valga/fbns-react": "*",
+        "valga/fbns-react1": "*",
         "symfony/process": "*",
         "winbox/args": "*"
     },
